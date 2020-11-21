@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Punto2D", "Punto2D\Punto2D.csproj", "{E07BAC73-9655-4596-BC4C-E224FE063596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Punto3D", "Punto3D\Punto3D.csproj", "{F72D0A71-573D-40DD-A505-2C46D35519E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E07BAC73-9655-4596-BC4C-E224FE063596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07BAC73-9655-4596-BC4C-E224FE063596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07BAC73-9655-4596-BC4C-E224FE063596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07BAC73-9655-4596-BC4C-E224FE063596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F72D0A71-573D-40DD-A505-2C46D35519E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72D0A71-573D-40DD-A505-2C46D35519E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72D0A71-573D-40DD-A505-2C46D35519E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72D0A71-573D-40DD-A505-2C46D35519E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9D17B8D-2C56-4D1A-8133-177D27712329}
+	EndGlobalSection
+EndGlobal
